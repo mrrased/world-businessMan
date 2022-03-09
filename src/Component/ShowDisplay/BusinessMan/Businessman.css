@@ -1,0 +1,13 @@
+.gridM{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+.b-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.cart-style img{
+    border-radius: 20px 20px 0px 0px;
+}
+.cart-style p{
+    background-color: rgb(236, 230, 230);
+    padding: 20px;
+    font-weight: 700;
+}
+.cart-style{
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.cart-style h3{
+    text-align: center;
+}
+.cart-style span{
+    font-size: large;
+    font-weight: 700;
+    color: rgb(255, 106, 0);
+}

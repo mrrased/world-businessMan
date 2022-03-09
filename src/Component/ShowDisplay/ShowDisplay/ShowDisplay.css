@@ -1,0 +1,27 @@
+.cart img{
+    width: 120px;
+    border-radius: 50%;
+}
+.cart{
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(238, 238, 238);
+    border-radius: 5px;
+}
+.cart button{
+    padding: 5px 40px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.384);
+    border-radius: 10px;
+    cursor: pointer;
+}
+.cart:hover{
+    background-color: rgba(255, 255, 255, 0.973);
+}
+.rank-color{
+    color: rgb(255, 106, 0);
+    font-weight: 700;
+}
